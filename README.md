@@ -1,4 +1,4 @@
-# Quiz
+# Quiz :memo:
 
 Simple Quiz :)
 
@@ -6,7 +6,7 @@ Simple Quiz :)
 
 ## Built With
 
-* [JavaScript](http://www.dropwizard.io/1.0.2/docs/) - Language
+* [JavaScript](https://www.javascript.com/) - Language
 
 
 ## Authors
